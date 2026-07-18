@@ -17,6 +17,6 @@ El objetivo principal del juego es poner al jugador en el centro de la gestión,
 🕹️ Gameplay
 
 
-https://msmanager.duckdns.org/
+https://msmanager.onrender.com/
 
-https://msmanager.duckdns.org/app/dashboard.html
+https://msmanager.onrender.com/app/index.html
